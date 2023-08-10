@@ -1,0 +1,10 @@
+.content{
+    background-color: black;
+}
+.i1 img{
+    width: 100px;
+}
+.head{
+    display flex;
+    justify-content: space-evenly;
+}
